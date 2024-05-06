@@ -6,7 +6,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tekashidev&show_icons=true&locale=en" alt="tekashidev" /></p>
 </div>
 
-- 🔭 I’m currently working on [Novele Sphere](https://github.com/tekashidev/NovelSphere)
+- 🔭 I’m currently working on [BeyondPaper](https://github.com/tekashidev/BeyondPaper)
 
 - 🌱 I’m currently learning **C#, React (TypeScript), 3D (Three.js and Blender)**
 
